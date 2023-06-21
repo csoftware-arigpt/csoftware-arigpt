@@ -4,4 +4,3 @@
 - 💞️ Loves Python
 - 🧑‍💻 Install Gentoo
 - 🛠️ ESP8266 enjoyeer
-- 
