@@ -4,5 +4,6 @@
 
 - Rust, Python, CPP
 - Working on ezcode and some small projects
+- God of procrastination
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpnghq.com%2Fwp-content%2Fuploads%2Flain-iwakura-png-clear-background-768x1328.png" width="400" />
