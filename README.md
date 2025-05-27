@@ -10,6 +10,6 @@
 
 - Brest Hackaton winner [(proof)](https://drive.google.com/file/d/1pny9kkt9EMB8p4bqadPW8gs_dz3X2bGS/view)
 - Winner of the regional stage of 100 ideas for Belarus with the project [@learnezcode](https://github.com/learnezcode) [(proof)](https://t.me/brestbrsm/20396)
-- Twice awarded the 1st degree diploma at the Republican competition "RoBIN" ([2024 (Telegram Bot-Developement)](https://zubronok.by/events/robin-2024%D0%B8%D1%82%D0%BE%D0%B3%D0%B8/), [2025 (Programming)](https://zubronok.by/programms/smeny-2025-goda/smena-robin/robin-2025.php))
+- Twice awarded the 1st degree diploma at the Republican competition "RoBIN" ([2024 (Telegram Bot Developement)](https://zubronok.by/events/robin-2024%D0%B8%D1%82%D0%BE%D0%B3%D0%B8/), [2025 (Programming)](https://zubronok.by/programms/smeny-2025-goda/smena-robin/robin-2025.php))
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpnghq.com%2Fwp-content%2Fuploads%2Flain-iwakura-png-clear-background-768x1328.png" width="400" />
