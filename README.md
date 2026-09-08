@@ -1,7 +1,7 @@
 ![csoftware](https://github.com/csoftware-arigpt/csoftware-arigpt/assets/130468357/1ed4022f-d8ee-40e6-88e1-c46d7dd6b8ec)
 
-- Working on [vira.run](https://github.com/vira-run)
-- God of procrastination
+- Working on [PRY Code](https://github.com/PRY-Code)
+- Psychoresearcher and creator of procrastech (technology for procrastinators)
 
 ### Flex
 
